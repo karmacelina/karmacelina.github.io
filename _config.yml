@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Journey into Data Science 
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: From colloidal physics to data science in a few months
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://0.academia-photos.com/39648885/10900682/12164958/s200_laura.colon-melendez.jpg
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: lauradelmar@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: karmacelina
+  instagram: karmacelina
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: karmaselene
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
