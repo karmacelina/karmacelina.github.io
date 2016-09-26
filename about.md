@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Physics PhD from the University of Michigan 
+Bachelor of Science from the Massachusetts Institute of Technology
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Born and raised in San Juan, Puerto Rico, I now live in Manhattan. I enjoy learning, singing, and walking my dog, Luna. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lauradelmar@gmail.com](mailto:lauradelmar@gmail.com)
