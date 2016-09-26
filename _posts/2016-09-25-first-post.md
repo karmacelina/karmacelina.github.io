@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Kilómetro Cero"
+title: Beginnings - Week 1 @ Metis 
 ---
 
-Hello! The title of this first blog post refers to [kilometer zero](https://en.wikipedia.org/wiki/Kilometre_zero), a location from which distances are gauged from. This was the first week of the Fall 2016 Metis Data Science bootcamp; from now on, I will be living and breathing more data science than ever before.
+
+This was the first week of the Fall 2016 Metis Data Science bootcamp; from now on, I will be living and breathing more data science than ever before. 
 
 My name is Laura Colón-Meléndez. I recently finished a PhD in Physics and have spent the summer teaching myself Python, going over statistics, and learning a bit about machine learning. 
 
